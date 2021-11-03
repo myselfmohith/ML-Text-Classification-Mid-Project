@@ -1,3 +1,14 @@
+# Classification of PUBMED articles
+**Text Mining Mid Project**\
+Classified classes -> `cancer,virus,vaccine,COVID-19,genome`
+
+
+### Index
+* [Folder Structure](#folder-structure)
+* [Order Project Execute](#order-project-execute)
+* [Models Metrics Test](#models-metrics-test)
+* [Final Model Metrics(SVM)](#final-model-metricssvm)
+
 ### Folder Structure
 
 ```
