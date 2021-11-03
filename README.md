@@ -57,7 +57,7 @@ Params = `Lemmatization,TF-IDF(n_gram=1),5-Fold`
 
 ### Final Model Metrics(SVM)
 
-Params = `Lemmatization,TF-IDF(n_gram=1),5-Fold`
+Params = `Lemmatization,TF-IDF(n_gram=1),30% Testing`
 
 
 ```python
