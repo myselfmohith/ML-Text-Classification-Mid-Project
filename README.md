@@ -27,17 +27,16 @@ Classified classes -> `cancer,virus,vaccine,COVID-19,genome`
 │       └── Trained Models Saves
 │       └──  ....
 │──  .gitignore
-│──  README.md
-
+└──  README.md
 ```
 
 
 ### Order Project Execute
-
+1. Create folders `Src`,`Src_Parsed` and `Trained Models` in the root directory (refer [Folder Structure](#folder-structure))
 1. Download the PUBMED articles from website and save them in `Src` folder
-2. Execute the `PUBMED txt_to_csv.ipynb` for each PUBMED article this saves a CSV file in `Src_Parsed` folder.
-3. Execute the `Combine DataSets.ipynb`, this  will concatenate all the CSV files that are parsed in the previous execution i.e, `Src_Parsed` files into single file
-4. Finally all our files are ready for the `Classification.ipynb`.
+1. Execute the `PUBMED txt_to_csv.ipynb` for each PUBMED article this saves a CSV file in `Src_Parsed` folder.
+1. Execute the `Combine DataSets.ipynb`, this  will concatenate all the CSV files that are parsed in the previous execution i.e, `Src_Parsed` files into single file
+1. Finally all our files are ready for the `Classification.ipynb`.
 
 
 ### Models Metrics Test
@@ -57,7 +56,7 @@ Params = `Lemmatization,TF-IDF(n_gram=1),5-Fold`
 
 ### Final Model Metrics(SVM)
 
-Params = `Lemmatization,TF-IDF(n_gram=1),5-Fold`
+Params = `Lemmatization,TF-IDF(n_gram=1),30% Testing`
 
 
 ```python
@@ -80,4 +79,3 @@ Recall    = 0.971460456171711
 Precision = 0.9715500893609411
 Accuracy  = 0.9727358733981251
 ```
-
