@@ -2,14 +2,14 @@
 
 # Project Report
 
-|Model Parametres||
+|Model Parameters||
 |:-|:-|
 |TOkenization|Lemmatisation|
 |Feature Extraction|`(1,1) Gram`|
 |Feature Weighting|TF-IDF|
 |Training Test|K-Fold|
 
-The above parametres are the base parametres for comparisition of the models.
+The above parameters are the base parameters for comparison of the models.
 
 
 ### Tokenization
