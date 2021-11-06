@@ -53,3 +53,19 @@ Support Vector Machine(SVM)|`0.9715043900251562`|||
 |Decision tree|`0.9530726371235272`||
 |Random Forest|`0.9509715264106428`||
 |Support Vector Machine(SVM)|`0.9715043900251562`||
+
+
+### Final CLassifier Metrics
+
+|Metric|Value|
+|:-|:-|
+|Tokenization||
+|Feature Extraction||
+|Feature Weighting||
+|Classifier||
+|Training time||
+|Testing Time||
+|Accuracy||
+|Presicion||
+|Recall||
+|F1 Score||
