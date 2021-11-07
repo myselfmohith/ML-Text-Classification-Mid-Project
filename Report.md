@@ -2,7 +2,7 @@
 
 Team Members
 * ARIGE TEJASRI
-* 
+* Bhavanam Vijaya Durga
 * Mederametla TarunTeja
 * Mohith Kumar Bezawada
 
