@@ -1,7 +1,7 @@
 # Project Report
 
 Team Members
-* ARIGE TEJASRI
+* Arige Tejasri
 * Bhavanam Vijaya Durga
 * Mederametla TarunTeja
 * Mohith Kumar Bezawada
