@@ -66,7 +66,7 @@ Comaprision of `1-gram vs 2-gram vs 1-2-gram`
 | Recall             | `0.9698185269508628` |
 | F1 Score           | `0.9699648491304906` |
 
-Here is the complete classification report from `sklearn` library.
+Here is the complete classification report from `sklearn` library using the best model parametres(SVM).
 
 ```python
               precision    recall  f1-score   support

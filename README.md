@@ -8,6 +8,7 @@ Classified classes -> `cancer,virus,vaccine,COVID-19,genome`
 * [Order Project Execute](#order-project-execute)
 * [Models Metrics Test](#models-metrics-test)
 * [Final Model Metrics(SVM)](#final-model-metricssvm)
+* [Report](./Report.md)
 
 ### Folder Structure
 
