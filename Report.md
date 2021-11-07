@@ -1,5 +1,12 @@
 # Project Report
 
+Team Members
+* 
+* 
+* 
+* Mohith Kumar Bezawada
+
+
 | Model Parameters   |                |
 | :----------------- | :------------- |
 | TOkenization       | Lemmatisation  |
