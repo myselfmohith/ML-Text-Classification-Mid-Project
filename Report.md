@@ -1,7 +1,7 @@
 # Project Report
 
 Team Members
-* 
+* ARIGE TEJASRI
 * 
 * 
 * Mohith Kumar Bezawada
