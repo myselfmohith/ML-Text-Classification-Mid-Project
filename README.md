@@ -7,7 +7,7 @@ Classified classes -> `cancer,virus,vaccine,COVID-19,genome`
 * [Folder Structure](#folder-structure)
 * [Order Project Execute](#order-project-execute)
 * [Models Metrics Test](#models-metrics-test)
-* [Final Model Metrics(SVM)](#final-model-metricssvm)
+* [Final Model Metrics & Download (SVM)](#final-model-metricssvm)
 * [Report](./Report.md)
 
 ### Folder Structure
@@ -57,8 +57,9 @@ Params = `Lemmatization,TF-IDF(n_gram=1),5-Fold`
 
 ### Final Model Metrics(SVM)
 
-Params = `Lemmatization,TF-IDF(n_gram=1),30% Testing`
+You can test our model on your data, [download from here](./Trained%20Models/svm.pkl). Using `pickle` package from python you can import it and use `.predict` to predict your data.
 
+Params = `Lemmatization,TF-IDF(n_gram=1),30% Testing`
 
 ```python
 =============== classification report ==================
