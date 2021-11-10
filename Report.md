@@ -9,7 +9,7 @@ Team Members
 
 | Model Parameters   |                |
 | :----------------- | :------------- |
-| TOkenization       | Lemmatisation  |
+| Tokenization       | Lemmatisation  |
 | Feature Extraction | `(1,1) Gram`   |
 | Feature Weighting  | TF-IDF         |
 | Training Test      | K-Fold `(K=5)` |
