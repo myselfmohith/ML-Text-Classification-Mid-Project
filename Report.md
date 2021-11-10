@@ -1,12 +1,17 @@
 # Project Report
 
-Team Members
-* Arige Tejasri
-* Bhavanam Vijaya Durga
-* Mederametla TarunTeja
-* Mohith Kumar Bezawada
+|Team Name|ICONS|
+|:-|:-|
+
+|Team Members||
+|:-|:-|
+|Arige Tejasri|110711096|
+|Bhavanam Vijaya Durga|110711154|
+|Mederametla TarunTeja|110710683|
+|Mohith Kumar Bezawada|110710706|
 
 
+### Base Model Parameters
 | Model Parameters   |                |
 | :----------------- | :------------- |
 | Tokenization       | Lemmatisation  |
